@@ -3,7 +3,7 @@ const style2 = document.querySelectorAll('.style-2');
 const style3 = document.querySelectorAll('.style-3');
 const img = document.querySelectorAll('.img');
 const cardContainer = document.querySelectorAll('.card-container');
-const data = 30092024;
+const data = 17121990;
 
 const password1 = document.querySelector('.password-1');
 
