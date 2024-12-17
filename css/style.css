@@ -97,6 +97,7 @@ body {
 }
 
 .style-1 {
+  font-size: 3.5vw !important;
   margin-top: -50px;
   right: 30px;
   color: black !important;
